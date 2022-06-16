@@ -5,6 +5,7 @@ export PATH
 #=================================================
 #	System Required: CentOS 6+/Debian 6+/Ubuntu 14.04+
 #	Description: Manager Fail2ban
+#       Author: Hoothin
 #=================================================
 
 filepath=$(cd "$(dirname "$0")"; pwd) # 获取当前文件$0所在的目录，进入该目录，输出路径
